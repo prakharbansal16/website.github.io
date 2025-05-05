@@ -1,5 +1,5 @@
 ---
-title: 📄 Paper submitted: "Expansion-history preferences of DESI and external data"
+title: '📄 Paper submitted: "Expansion-history preferences of DESI and external data" '
 summary: Submitted to arXiv in February 2025, this work explores how DESI and other datasets constrain cosmic expansion.
 date: 2025-02-01
 
