@@ -55,7 +55,7 @@ education:
   - area: Ph.D. Physics
     institution: University of Michigan
     date_start: 2024-08-26
-    date_end: Sometime in 2029 (Hopefully)
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
