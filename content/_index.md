@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: DR1_butterfly.png
           filters:
-            brightness: 0.3
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
