@@ -61,18 +61,18 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.Tech in Electrical Engg. with a minor in Physics
+  - area: B.Tech Electrical Engineering
     institution: Indian Institute of Technology Bombay
     date_start: 2020-11-11
     date_end: 2024-05-03
     summary: |
       GPA: 9.3/10.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
- 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
