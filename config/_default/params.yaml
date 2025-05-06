@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Home"
+      path: ../../assets/media/icons/um-physics.svg
+      # text: "Home"
 
 # Site footer
 footer:

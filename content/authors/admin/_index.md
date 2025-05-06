@@ -155,7 +155,7 @@ awards:
     url: https://lsa.umich.edu/physics/graduate-students/program-details/scholarships-and-awards.html
     date: '2025-05-02'
     awarder: Physics Department, Univ. of Michigan
-    icon: um-physics
+    icon: ~/assets/media/icons/um-physics.svg
     summary: |
       The Peter Franken Award is presented every year to honor outstanding work by a first- or second-year graduate student in the Physics Dept at UMich.
   # - title: Blockchain Fundamentals
