@@ -1,7 +1,6 @@
 ---
 # Display name
-title:
-  icon: brands/github
+title: Prakhar
 
 
 # Name pronunciation (optional)

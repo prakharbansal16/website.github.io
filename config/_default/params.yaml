@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      path: ../../assets/media/icons/um-physics.svg
+      icon: academicons/orcid
       # text: "Home"
 
 # Site footer
