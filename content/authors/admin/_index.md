@@ -1,6 +1,8 @@
 ---
 # Display name
-title: Prakhar
+title:
+  icon: brands/github
+
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -10,7 +12,7 @@ first_name: Prakhar
 last_name: Bansal
 
 # Status emoji
-status:
+status: 
   icon: 
 
 # Is this the primary user of the site?
