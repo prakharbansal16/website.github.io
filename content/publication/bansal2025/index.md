@@ -8,7 +8,12 @@ publication_types: ["article-journal"]
 publication: "arXiv preprint arXiv:2502.07185"
 summary: "Expansion history constraints from DESI Year 3 and external datasets."
 url_pdf: "https://arxiv.org/pdf/2502.07185"
-featured: false
+featured: true
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: false
+  
 projects: []
 slides: ""
 ---

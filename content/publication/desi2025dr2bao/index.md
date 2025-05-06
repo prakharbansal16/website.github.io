@@ -8,7 +8,11 @@ publication_types: ["article-journal"]
 publication: "arXiv preprint arXiv:2503.14738"
 summary: "BAO and cosmology results from DESI DR2."
 url_pdf: "https://arxiv.org/pdf/2503.14738"
-featured: false
+featured: true
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
 slides: ""
 ---
