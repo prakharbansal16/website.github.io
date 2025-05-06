@@ -66,9 +66,9 @@ education:
     date_start: 2020-11-11
     date_end: 2024-05-03
     summary: |
-      GPA: 9.3/10.0
-      Thesis 1: New Degrees of Freedom using $N_\text{eff}$ measurements of CMB
-      Thesis 2: Impact of Interacting Dark Matter on the Cosmological 21-cm Signal
+      GPA: 9.3/10.0 <br>
+      Thesis 1: New Degrees of Freedom using $N_\text{eff}$ measurements of CMB <br>
+      Thesis 2: Impact of Interacting Dark Matter on the Cosmological 21-cm Signal <br>
 
 collaboration:
     - name: Dark Energy Spectroscopic Instrument
