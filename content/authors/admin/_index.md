@@ -57,22 +57,26 @@ education:
     date_start: 2024-08-26
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Dynamical Dark Energy in light of recent DESI measurements. Supervised by [Prof Dragan Huterer](https://websites.umich.edu/~huterer/). 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: B.Tech Electrical Engineering
     institution: Indian Institute of Technology Bombay
     date_start: 2020-11-11
     date_end: 2024-05-03
     summary: |
       GPA: 9.3/10.0
+      Thesis 1: New Degrees of Freedom using $N_\text{eff}$ measurements of CMB
+      Thesis 2: Impact of Interacting Dark Matter on the Cosmological 21-cm Signal
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+collaboration:
+    - name: Dark Energy Spectroscopic Instrument
+      date_start: 2024-10-20
+      summary: |
+        Dynamical Dark Energy in light of recent DESI measurements. 
 
+     
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
